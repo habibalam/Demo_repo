@@ -15,8 +15,6 @@ class B extends A
 		System.out.println("B int-args");
 	}
 
-
-
 };
 
 
@@ -25,6 +23,7 @@ class Test1
     
 	public static void main(String[] args) 
 	{
+		System.out.println("welcome back to here");
 		B b=new B();
 		
 		 /*b.m1(50);
