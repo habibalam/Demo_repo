@@ -19,11 +19,6 @@ class A15
 		m3();
 	}
 
-
-	
-
-
-
 }
  
  class B15 extends A15
